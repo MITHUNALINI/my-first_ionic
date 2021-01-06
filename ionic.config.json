@@ -1,6 +1,8 @@
 {
   "name": "myfirst_ionic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic1",
   "watchPatterns": [
     "scss/**/*",
